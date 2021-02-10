@@ -1,5 +1,5 @@
 baseurl = "https://example.org/"
-title = "Wonder Tiki"
+title = "Wonder Tiki Tattoo Studio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,11 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "blue"
-  description = "Describe your website"
+  style = "sea"
+  description = "A website for a tattoo studio in Luino (Va) - Italy"
   copyright = "&copy;2016 billiboi"
   sidebarAbout = [
-    "Siamo uno studio di tatuaggi ."
+    "Via Confalonieri 14, 21016, Luino - 392 119  3962S"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -54,7 +54,6 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  email         = "email@example.com"
-  instagram     = "full profile url in instagram"
+  facebook      = "https://www.facebook.com/wondertikitattoo/"
+  instagram     = "https://www.instagram.com/wondertikitattoo/"
   whatsapp      = "wa.me service link"
