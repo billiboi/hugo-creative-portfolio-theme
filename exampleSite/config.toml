@@ -10,17 +10,17 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
-  description = "A website for a tattoo studio in Luino (Va) - Italy"
+  style = "blue"
+  description = "A website for a tatto studio in Luino, Italy"
   copyright = "&copy;2016 billiboi"
   sidebarAbout = [
-    "Via Confalonieri 14, 21016, Luino - 392 119  3962
-    Lunedì: 09 - 12.00 / 14.00 - 19.00
-    Martedì: 09 - 12.00 / 14.00 - 19.00
-    Mercoledì: 09 - 12.00 / 14.00 - 19.00
-    Giovedì: 09 - 12.00 / 14.00 - 19.00
-    Venerdì: 09 - 12.00 / 14.00 - 19.00
-    Sabato e Domenica - Chiuso"
+    "Orari di apertura",
+    "Lunedì: 09.00 - 12.00 / 14.00 - 19.00",
+    "Martedì: 09.00 - 12.00 / 14.00 - 19.00",
+    "Mercoledì: 09.00 - 12.00 / 14.00 - 19.00",
+    "Giovedì: 09.00 - 12.00 / 14.00 - 19.00",
+    "Venerdì: 09.00 - 12.00 / 14.00 - 19.00",
+
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -60,6 +60,6 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "https://www.facebook.com/wondertikitattoo/"
-  instagram     = "https://www.instagram.com/wondertikitattoo/"
+  facebook      = "full page or profile url in facebook"
+  instagram     = "full profile url in instagram"
   whatsapp      = "wa.me service link"
