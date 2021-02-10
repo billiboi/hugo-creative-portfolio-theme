@@ -15,6 +15,12 @@ googleAnalytics = ""
   copyright = "&copy;2016 billiboi"
   sidebarAbout = [
     "Via Confalonieri 14, 21016, Luino - 392 119  3962"
+    "Lunedì: 09 - 12.00 / 14.00 - 19.00"
+    "Martedì: 09 - 12.00 / 14.00 - 19.00"
+    "Mercoledì: 09 - 12.00 / 14.00 - 19.00"
+    "Giovedì: 09 - 12.00 / 14.00 - 19.00"
+    "Venerdì: 09 - 12.00 / 14.00 - 19.00"
+    "Sabato e Domenica - Chiuso"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
