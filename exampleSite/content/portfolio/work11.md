@@ -1,31 +1,9 @@
 +++
-draft = false
-image = "img/portfolio/paper-presentation.jpg"
+date = 2021-02-09T23:00:00Z
+image = "img/portfolio/tattoo1.jpg"
 showonlyimage = true
-date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
-weight = 11
+title = "Tattoo 11"
+weight = "4"
+
 +++
-
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-<!--more-->
-
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet justo eget velit consequat consectetur ut sed erat. Quisque eget tincidunt nunc. Vestibulum ac turpis velit. Sed id vestibulum sem, vel tincidunt dolor. Ut gravida in lectus vel eleifend. Nullam tortor elit, feugiat sit amet odio eu, tempor feugiat mi. Vivamus facilisis dolor in mauris eleifend lobortis at non libero. Nam ac mi efficitur, vestibulum sem eget, ultricies ligula. Maecenas placerat nulla urna, vel sagittis augue facilisis luctus. In commodo augue a tortor faucibus porta. Fusce dapibus, sapien in vehicula aliquet, elit orci efficitur magna, a interdum nisi justo ac erat. Ut placerat in tortor eget faucibus. Morbi cursus elit a dui volutpat, a auctor sem porta. Pellentesque rutrum vehicula erat, a aliquam nulla bibendum vitae.
