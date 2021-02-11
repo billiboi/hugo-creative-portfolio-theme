@@ -52,11 +52,11 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "Chi Siamo"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Contattaci"
   url = "contact/"
 
   [params.social]
