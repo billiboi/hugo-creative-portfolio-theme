@@ -7,8 +7,6 @@
          <h1>{{ .Title }}</h1>
          {{ .Content }}
          <h4></h4>
-         {{ partial "social_buttons_in_contact.html" . }}
-         {{ with .Site.Params.email }}
          <h4>Raccontaci la tua idea.</h4>
          <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
            <div class="controls">
@@ -31,6 +29,8 @@
          </form>
          {{ end }}
       </div>
+      {{ partial "social_buttons_in_contact.html" . }}
+      {{ with .Site.Params.email }}
     </div>
   </div>
 </div>
