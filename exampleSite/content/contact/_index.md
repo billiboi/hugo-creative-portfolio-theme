@@ -12,4 +12,4 @@ title = "Contattaci"
 * Venerdì : 09.00 - 12.00 / 14.00 - 19.00
 * Sabato - Domenica : CHIUSURA
 
-  <br>
+  <hr>
