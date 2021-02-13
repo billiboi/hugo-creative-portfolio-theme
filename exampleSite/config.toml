@@ -14,12 +14,8 @@ googleAnalytics = ""
   description = "A website for a tatto studio in Luino, Italy"
   copyright = "&copy;2016 billiboi"
   sidebarAbout = [
-    "Orari di apertura",
-    "Lunedì: 09.00 - 12.00 / 14.00 - 19.00",
-    "Martedì: 09.00 - 12.00 / 14.00 - 19.00",
-    "Mercoledì: 09.00 - 12.00 / 14.00 - 19.00",
-    "Giovedì: 09.00 - 12.00 / 14.00 - 19.00",
-    "Venerdì: 09.00 - 12.00 / 14.00 - 19.00",
+   "Wonder Tiki Tattoo Studio nasce dalla collaborazione di due artisti con esperienza pluriennale.",
+   "Raccontaci i tuoi sogni e noi li scriveremo sulla tua pelle"
 
   ]
   # Contact page
