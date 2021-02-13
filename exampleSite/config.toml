@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "blue"
   description = "A website for a tatto studio in Luino, Italy"
-  copyright = "&copy;2016 billiboi"
+  copyright = "&copy;2021 billiboi"
   sidebarAbout = [
-   "Wonder Tiki Tattoo Studio: più di un tatuaggio, la tua storia",
-   "Raccontaci i tuoi sogni e noi li scriveremo sulla tua pelle"
+   "Il tuo corpo è un tempio, ma per quanto a lungo puoi vivere nella stessa camera senza decorarla?",
+   "Wonder Tiki Tattoo Studio nasce grazie alla collaborazione di due artisti con esperienza pluriennale. Raccontaci dei tuoi sogni e noi li imprimeremo sulla tua pelle."
 
   ]
   # Contact page
