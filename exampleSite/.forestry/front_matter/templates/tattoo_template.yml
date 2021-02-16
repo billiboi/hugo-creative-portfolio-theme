@@ -15,4 +15,5 @@ fields:
   name: weight
   label: weight
 pages:
+- exampleSite/content/portfolio/example.md
 - exampleSite/content/portfolio/mandala.md
