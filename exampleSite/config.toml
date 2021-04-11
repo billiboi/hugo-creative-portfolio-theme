@@ -48,10 +48,6 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Chi Siamo"
-  url = "about/"
-
-  [[params.navlinks]]
   name = "Contattaci"
   url = "contact/"
 
