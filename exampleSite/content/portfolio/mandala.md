@@ -1,5 +1,5 @@
 +++
-image = "/uploads/mehndi-training-center-alri8meql-k-unsplash.jpg"
+image = "/uploads/whatsapp-image-2021-04-12-at-11-52-01.jpeg"
 showonlyimage = true
 title = "Mandala"
 weight = 4
