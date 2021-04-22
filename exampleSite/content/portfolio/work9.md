@@ -1,8 +1,9 @@
 +++
 date = 2021-02-10T09:16:48Z
-image = "img/portfolio/tattoo10.jpg"
+image = "/uploads/tattoo_drago.jpg"
 showonlyimage = false
-title = "Tattoo 10"
+title = "Japanese Dragon"
 weight = "9"
 
 +++
+![](/uploads/tattoo_drago.jpg)
