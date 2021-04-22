@@ -6,6 +6,5 @@ title = "Kokeshi"
 weight = 10
 
 +++
-Kokeshi
 
 ![](/uploads/tattoo_kokeshi.jpg)
