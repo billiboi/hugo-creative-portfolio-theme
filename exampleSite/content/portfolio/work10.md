@@ -1,8 +1,11 @@
 +++
 date = 2021-02-10T09:29:19Z
-image = "img/portfolio/tattoo4.jpg"
+image = "/uploads/tattoo_kokeshi.jpg"
 showonlyimage = true
-title = "Item with image"
+title = "Kokeshi"
 weight = 10
 
 +++
+Kokeshi
+
+![](/uploads/tattoo_kokeshi.jpg)
