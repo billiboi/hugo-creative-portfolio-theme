@@ -6,6 +6,6 @@ title = "Captain Tsubasa"
 weight = 7
 
 +++
-Captain Tsubasa
+**Captain Tsubasa**
 
-![](/uploads/tattoo_holly.jpg)
+**![](/uploads/tattoo_holly.jpg)**
