@@ -14,9 +14,8 @@ googleAnalytics = ""
   description = "A website for a tatto studio in Luino, Italy"
   copyright = "&copy;2021 billiboi"
   sidebarAbout = [
-   "Based in Luino since 2019."
-   "Resident Tattoo artist: La Dany."
-   "Old school, Japanese and Chicano tattoo styles."
+   " per quanto a lungo puoi vivere nella stessa camera senza decorarla?",
+   ""
 
   ]
   # Contact page
@@ -55,3 +54,4 @@ googleAnalytics = ""
   [params.social]
   facebook      = "full page or profile url in facebook"
   instagram     = "full profile url in instagram"
+  whatsapp      = "wa.me service link"
