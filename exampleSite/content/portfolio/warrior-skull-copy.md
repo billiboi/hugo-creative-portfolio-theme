@@ -1,10 +1,10 @@
 +++
 date = 2021-02-10T09:13:15Z
 draft = true
-image = "/uploads/whatsapp-image-2021-04-12-at-11-53-01.jpeg"
+image = "/uploads/122398907_351519562579353_3267054656823999919_n.jpg"
 showonlyimage = true
-title = "Warrior Skull-(copy)"
+title = "Twin Roses"
 weight = 0
 
 +++
-![](/uploads/whatsapp-image-2021-04-12-at-11-53-01.jpeg)
+![](/uploads/122398907_351519562579353_3267054656823999919_n.jpg)
