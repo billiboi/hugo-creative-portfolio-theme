@@ -1,13 +1,16 @@
 +++
 date = 2021-01-28T20:30:25Z
-title = "Contatti "
+title = "Contatti"
 
 +++
 ### Orari di apertura:
 
-* Lunedì : 09.00 - 12.00 / 14.00 - 19.00
-* Martedì : 09.00 - 12.00 / 14.00 - 19.00
-* Mercoledì : 09.00 - 12.00 / 14.00 - 19.00
-* Giovedì : 09.00 - 12.00 / 14.00 - 19.00
-* Venerdì : 09.00 - 12.00 / 14.00 - 19.00
-* Sabato - Domenica : CHIUSURA
+* Martedì : 11.00 - 19.00
+* Mercoledì : 11.00 - 19.00
+* Giovedì : 11.00 - 19.00
+* Venerdì : 11.00 - 19.00
+* Sabato  : 11.00 - 19.00
+
+* CHIUSO Martedì e Domenica
+
+* Eventuali variazioni di orari verranno comunicate a tempo debito sulle pagine social Facebook e Instagram.

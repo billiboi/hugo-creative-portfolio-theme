@@ -48,7 +48,7 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Contattaci"
+  name = "Contatti"
   url = "contact/"
 
   [params.social]
