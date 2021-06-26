@@ -14,32 +14,11 @@ googleAnalytics = ""
   description = "A website for a tatto studio in Luino, Italy"
   copyright = "&copy;2021 billiboi"
   sidebarAbout = [
-   "Il tuo corpo è un tempio, ma per quanto a lungo puoi vivere nella stessa camera senza decorarla?",
-   "Wonder Tiki Tattoo Studio nasce grazie alla collaborazione di due artisti con esperienza pluriennale. Raccontaci dei tuoi sogni e noi li imprimeremo sulla tua pelle."
+   "Based in Luino since 2019."
+   "Resident Tattoo artist: La Dany."
+   "Old school, Japanese and Chicano styles."
 
   ]
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "vdauria94@gmail.com"
-
-    # Optional Matomo analytics (formerly piwik)
-      # [params.analytics.matomo]
-      #  URL = "https://stats.example.com"
-      #  ID = "42"
-      #  # Track all subdomains with "*.example.com" (Optional)
-      #  domain = "www.example.com"
-      #  # Optional integrity check hash
-      #  hash = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -54,4 +33,3 @@ googleAnalytics = ""
   [params.social]
   facebook      = "full page or profile url in facebook"
   instagram     = "full profile url in instagram"
-  whatsapp      = "wa.me service link"
