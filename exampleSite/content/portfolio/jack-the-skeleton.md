@@ -1,10 +1,10 @@
 +++
 date = 2021-02-10T09:13:15Z
 draft = true
-image = "/uploads/whatsapp-image-2021-04-12-at-11-53-01.jpeg"
+image = "/uploads/143079987_891968528298832_4130590837780454389_n.jpg"
 showonlyimage = true
 title = "Jack the Skeleton"
 weight = 0
 
 +++
-![](/uploads/whatsapp-image-2021-04-12-at-11-53-01.jpeg)
+![](/uploads/143079987_891968528298832_4130590837780454389_n.jpg)
