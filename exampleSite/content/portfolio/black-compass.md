@@ -1,10 +1,10 @@
 +++
 date = 2021-02-10T09:13:15Z
 draft = true
-image = "/uploads/whatsapp-image-2021-04-12-at-11-53-01.jpeg"
+image = "/uploads/123141564_1018627755272002_1247865765361326600_n.jpg"
 showonlyimage = true
 title = "Black Compass"
 weight = 0
 
 +++
-![](/uploads/whatsapp-image-2021-04-12-at-11-53-01.jpeg)
+![](/uploads/123141564_1018627755272002_1247865765361326600_n.jpg)
