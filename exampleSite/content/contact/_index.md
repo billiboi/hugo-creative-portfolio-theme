@@ -13,6 +13,8 @@ _+39 3921193962_
 
 _o sulla pagina Facebook e/o Instagram._
 
+**_Si prega di avvisare entro 24h dall'appuntamento in caso di disdetta._**
+
 #### Orari di apertura:
 
 * Martedì : 11.00 - 19.00
