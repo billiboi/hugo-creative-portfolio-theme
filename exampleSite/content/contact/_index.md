@@ -22,7 +22,6 @@ _o sulla pagina Facebook e/o Instagram._
 * Giovedì : 11.00 - 19.00
 * Venerdì : 11.00 - 19.00
 * Sabato : 11.00 - 19.00
-
-#### CHIUSO Martedì e Domenica
+* Martedì e Domenica: CHIUSO
 
 _Eventuali variazioni di orari verranno comunicate a tempo debito sulle pagine social Facebook e Instagram._
